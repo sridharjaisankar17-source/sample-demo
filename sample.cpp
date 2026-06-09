@@ -26,8 +26,3 @@ int main() {
     return 0; // Successful execution
 }
 
-
-
-
-If you want, I can also give you a slightly advanced C++ sample showing functions, loops, and conditionals so you can learn more than just basic I/O.
-Do you want me to prepare that?
